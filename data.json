@@ -15,7 +15,9 @@
             "Regular length"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482868-000/00?colorDisplayCode=62&sizeDisplayCode=034&pldDisplayCode=020",
-          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_62_482868_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-01.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_62_482868_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Pleated Wide Pants",
@@ -25,7 +27,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=32&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_32_462197_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-02.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_32_462197_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Padded Short Blouson",
@@ -35,7 +39,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E487689-000/00?colorDisplayCode=39&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487689/item/usgoods_39_487689_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-03.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487689/item/usgoods_39_487689_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Gazelle Indoor Shoes",
@@ -50,7 +56,9 @@
             "url": "https://www.adidas.com/us/gazelle-indoor-shoes/KI2252.html"
           },
           "url": "https://www.dickssportinggoods.com/p/adidas-mens-gazelle-indoor-shoes-24adimgzllndrblgmmns/24adimgzllndrblgmmns?sku=27557968",
-          "image": "https://www.instacart.com/image-server/500x500/filters%3Afill%28FFFFFF%2Ctrue%29%3Aformat%28jpg%29/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_39d8db65-8151-4bb8-9391-870027f5f4df.jpeg"
+          "image": "ryan-tryons-v2/item-04.png",
+          "originalImage": "https://www.instacart.com/image-server/500x500/filters%3Afill%28FFFFFF%2Ctrue%29%3Aformat%28jpg%29/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_39d8db65-8151-4bb8-9391-870027f5f4df.jpeg",
+          "aiImage": true
         },
         {
           "name": "New Balance 9060",
@@ -62,7 +70,9 @@
           ],
           "preference": "Any lighter color is fine—gray, white, or beige—but not all white or black. Whatever is on sale works!",
           "url": "https://www.newbalance.com/pd/9060/U9060GRY-D-10.html#dwvar_U9060V1-49464-PMG-NA-TB_size=10.5&dwvar_U9060V1-49464-PMG-NA-TB_style=U9060GRY&dwvar_U9060V1-49464-PMG-NA-TB_width=D&pid=U9060V1-49464-PMG-NA&quantity=1",
-          "image": "https://nb.scene7.com/is/image/NB/u9060gry_nb_02_i?wid=600&hei=600"
+          "image": "ryan-tryons-v2/item-05.png",
+          "originalImage": "https://nb.scene7.com/is/image/NB/u9060gry_nb_02_i?wid=600&hei=600",
+          "aiImage": true
         },
         {
           "name": "Baggy Jeans",
@@ -73,7 +83,9 @@
             "Regular length"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482868-000/00?colorDisplayCode=67&sizeDisplayCode=034&pldDisplayCode=020",
-          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_67_482868_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-06.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_67_482868_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Waffle Henley Neck T-Shirt | Long Sleeve",
@@ -83,7 +95,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482766-000/00?colorDisplayCode=32&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482766/item/usgoods_32_482766_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-07.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482766/item/usgoods_32_482766_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Wide Sweatpants",
@@ -93,7 +107,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=03&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_03_471809_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-08.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_03_471809_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Washable Milano Ribbed Sweater",
@@ -103,7 +119,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E453754-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453754/item/thgoods_09_453754_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-09.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453754/item/thgoods_09_453754_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Washable Milano Ribbed Skipper Polo Sweater",
@@ -113,7 +131,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482325-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482325/item/usgoods_69_482325_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-10.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482325/item/usgoods_69_482325_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Zip-Up Blouson",
@@ -123,7 +143,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E484249-000/00?colorDisplayCode=57&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484249/item/usgoods_57_484249_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-11.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484249/item/usgoods_57_484249_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Pique Polo Shirt",
@@ -133,7 +155,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=08&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_08_475367_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-12.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_08_475367_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Washable 3D Knit Sweater",
@@ -143,7 +167,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_69_482321_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-13.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_69_482321_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Pleated Wide Pants",
@@ -153,7 +179,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_69_462197_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-14.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_69_462197_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Pleated Wide Pants",
@@ -163,7 +191,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_09_462197_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-15.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_09_462197_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Wide Sweatpants",
@@ -173,7 +203,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=34&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_34_471809_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-16.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_34_471809_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Waffle T-Shirt | Long Sleeve",
@@ -183,7 +215,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=65&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_65_484780_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-17.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_65_484780_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Waffle T-Shirt | Long Sleeve",
@@ -193,7 +227,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=57&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_57_484780_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-18.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_57_484780_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Waffle T-Shirt | Long Sleeve",
@@ -203,7 +239,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=32&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_32_484780_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-19.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_32_484780_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Pique Polo Shirt",
@@ -213,7 +251,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=38&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_38_475367_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-20.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_38_475367_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Pique Polo Shirt",
@@ -223,7 +263,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_69_475367_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-21.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_69_475367_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "Washable 3D Knit Sweater",
@@ -233,7 +275,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_09_482321_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-22.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_09_482321_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Oversized T-Shirt",
@@ -243,7 +287,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_09_465185_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-23.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_09_465185_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Oversized T-Shirt",
@@ -253,7 +299,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=00&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_00_465185_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-24.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_00_465185_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Oversized T-Shirt",
@@ -263,7 +311,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_69_465185_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-25.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_69_465185_3x4.jpg?width=600",
+          "aiImage": true
         },
         {
           "name": "AIRism Cotton Oversized T-Shirt",
@@ -273,7 +323,9 @@
             "Size Large"
           ],
           "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=39&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_39_465185_3x4.jpg?width=600"
+          "image": "ryan-tryons-v2/item-26.png",
+          "originalImage": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_39_465185_3x4.jpg?width=600",
+          "aiImage": true
         }
       ]
     },
