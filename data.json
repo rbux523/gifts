@@ -4,197 +4,302 @@
       "name": "Ryan",
       "slug": "ryan",
       "icon": "✦",
+      "listNote": "This list is ordered by preference, with the most-wanted items first.",
       "items": [
         {
           "name": "Baggy Jeans",
           "store": "UNIQLO",
-          "details": ["67 Blue", "Waist size 34", "Regular length"],
-          "url": "https://www.uniqlo.com/us/en/products/E482868-000/00?colorDisplayCode=67&sizeDisplayCode=034&pldDisplayCode=020",
-          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_67_482868_3x4.jpg?width=600"
-        },
-        {
-          "name": "Baggy Jeans",
-          "store": "UNIQLO",
-          "details": ["62 Blue", "Waist size 34", "Regular length"],
+          "details": [
+            "62 Blue",
+            "Waist size 34",
+            "Regular length"
+          ],
           "url": "https://www.uniqlo.com/us/en/products/E482868-000/00?colorDisplayCode=62&sizeDisplayCode=034&pldDisplayCode=020",
           "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_62_482868_3x4.jpg?width=600"
         },
         {
           "name": "Pleated Wide Pants",
           "store": "UNIQLO",
-          "details": ["32 Beige", "Size Large"],
+          "details": [
+            "32 Beige",
+            "Size Large"
+          ],
           "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=32&sizeDisplayCode=005",
           "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_32_462197_3x4.jpg?width=600"
         },
         {
-          "name": "Pleated Wide Pants",
-          "store": "UNIQLO",
-          "details": ["69 Navy", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_69_462197_3x4.jpg?width=600"
-        },
-        {
-          "name": "Pleated Wide Pants",
-          "store": "UNIQLO",
-          "details": ["09 Black", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_09_462197_3x4.jpg?width=600"
-        },
-        {
-          "name": "Zip-Up Blouson",
-          "store": "UNIQLO",
-          "details": ["57 Olive", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E484249-000/00?colorDisplayCode=57&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484249/item/usgoods_57_484249_3x4.jpg?width=600"
-        },
-        {
           "name": "Padded Short Blouson",
           "store": "UNIQLO",
-          "details": ["39 Dark Brown", "Size Large"],
+          "details": [
+            "39 Dark Brown",
+            "Size Large"
+          ],
           "url": "https://www.uniqlo.com/us/en/products/E487689-000/00?colorDisplayCode=39&sizeDisplayCode=005",
           "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/487689/item/usgoods_39_487689_3x4.jpg?width=600"
         },
         {
-          "name": "Washable Milano Ribbed Sweater",
-          "store": "UNIQLO",
-          "details": ["09 Black", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E453754-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453754/item/thgoods_09_453754_3x4.jpg?width=600"
-        },
-        {
-          "name": "Washable Milano Ribbed Skipper Polo Sweater",
-          "store": "UNIQLO",
-          "details": ["69 Navy", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E482325-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482325/item/usgoods_69_482325_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Oversized T-Shirt",
-          "store": "UNIQLO",
-          "details": ["09 Black", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_09_465185_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Oversized T-Shirt",
-          "store": "UNIQLO",
-          "details": ["00 White", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=00&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_00_465185_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Oversized T-Shirt",
-          "store": "UNIQLO",
-          "details": ["69 Navy", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_69_465185_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Oversized T-Shirt",
-          "store": "UNIQLO",
-          "details": ["39 Dark Brown", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=39&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_39_465185_3x4.jpg?width=600"
-        },
-        {
-          "name": "Waffle T-Shirt | Long Sleeve",
-          "store": "UNIQLO",
-          "details": ["65 Blue", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=65&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_65_484780_3x4.jpg?width=600"
-        },
-        {
-          "name": "Waffle T-Shirt | Long Sleeve",
-          "store": "UNIQLO",
-          "details": ["57 Olive", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=57&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_57_484780_3x4.jpg?width=600"
-        },
-        {
-          "name": "Waffle T-Shirt | Long Sleeve",
-          "store": "UNIQLO",
-          "details": ["32 Beige", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=32&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_32_484780_3x4.jpg?width=600"
-        },
-        {
-          "name": "Washable 3D Knit Sweater",
-          "store": "UNIQLO",
-          "details": ["09 Black", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=09&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_09_482321_3x4.jpg?width=600"
-        },
-        {
-          "name": "Washable 3D Knit Sweater",
-          "store": "UNIQLO",
-          "details": ["69 Navy", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_69_482321_3x4.jpg?width=600"
-        },
-        {
-          "name": "Waffle Henley Neck T-Shirt | Long Sleeve",
-          "store": "UNIQLO",
-          "details": ["32 Beige", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E482766-000/00?colorDisplayCode=32&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482766/item/usgoods_32_482766_3x4.jpg?width=600"
-        },
-        {
-          "name": "Wide Sweatpants",
-          "store": "UNIQLO",
-          "details": ["03 Gray", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=03&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_03_471809_3x4.jpg?width=600"
-        },
-        {
-          "name": "Wide Sweatpants",
-          "store": "UNIQLO",
-          "details": ["34 Brown", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=34&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_34_471809_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Pique Polo Shirt",
-          "store": "UNIQLO",
-          "details": ["08 Dark Gray", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=08&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_08_475367_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Pique Polo Shirt",
-          "store": "UNIQLO",
-          "details": ["38 Dark Brown", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=38&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_38_475367_3x4.jpg?width=600"
-        },
-        {
-          "name": "AIRism Cotton Pique Polo Shirt",
-          "store": "UNIQLO",
-          "details": ["69 Navy", "Size Large"],
-          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=69&sizeDisplayCode=005",
-          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_69_475367_3x4.jpg?width=600"
-        },
-        {
           "name": "Gazelle Indoor Shoes",
           "store": "DICK'S Sporting Goods",
-          "details": ["Beige/White", "Men’s size 11"],
+          "details": [
+            "Beige/White",
+            "Men’s size 11"
+          ],
           "preference": "Any beige or brown color is fine; the linked pair is preferred.",
-          "alternate": {"label": "Brown colorway", "url": "https://www.adidas.com/us/gazelle-indoor-shoes/KI2252.html"},
+          "alternate": {
+            "label": "Brown colorway",
+            "url": "https://www.adidas.com/us/gazelle-indoor-shoes/KI2252.html"
+          },
           "url": "https://www.dickssportinggoods.com/p/adidas-mens-gazelle-indoor-shoes-24adimgzllndrblgmmns/24adimgzllndrblgmmns?sku=27557968",
           "image": "https://www.instacart.com/image-server/500x500/filters%3Afill%28FFFFFF%2Ctrue%29%3Aformat%28jpg%29/d2lnr5mha7bycj.cloudfront.net/product-image/file/large_39d8db65-8151-4bb8-9391-870027f5f4df.jpeg"
         },
         {
           "name": "New Balance 9060",
           "store": "New Balance",
-          "details": ["Rain Cloud / Castlerock / White", "Men’s size 10.5", "Standard width"],
+          "details": [
+            "Rain Cloud / Castlerock / White",
+            "Men’s size 10.5",
+            "Standard width"
+          ],
           "preference": "Any lighter color is fine—gray, white, or beige—but not all white or black. Whatever is on sale works!",
           "url": "https://www.newbalance.com/pd/9060/U9060GRY-D-10.html#dwvar_U9060V1-49464-PMG-NA-TB_size=10.5&dwvar_U9060V1-49464-PMG-NA-TB_style=U9060GRY&dwvar_U9060V1-49464-PMG-NA-TB_width=D&pid=U9060V1-49464-PMG-NA&quantity=1",
           "image": "https://nb.scene7.com/is/image/NB/u9060gry_nb_02_i?wid=600&hei=600"
+        },
+        {
+          "name": "Baggy Jeans",
+          "store": "UNIQLO",
+          "details": [
+            "67 Blue",
+            "Waist size 34",
+            "Regular length"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E482868-000/00?colorDisplayCode=67&sizeDisplayCode=034&pldDisplayCode=020",
+          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/482868/item/thgoods_67_482868_3x4.jpg?width=600"
+        },
+        {
+          "name": "Waffle Henley Neck T-Shirt | Long Sleeve",
+          "store": "UNIQLO",
+          "details": [
+            "32 Beige",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E482766-000/00?colorDisplayCode=32&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482766/item/usgoods_32_482766_3x4.jpg?width=600"
+        },
+        {
+          "name": "Wide Sweatpants",
+          "store": "UNIQLO",
+          "details": [
+            "03 Gray",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=03&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_03_471809_3x4.jpg?width=600"
+        },
+        {
+          "name": "Washable Milano Ribbed Sweater",
+          "store": "UNIQLO",
+          "details": [
+            "09 Black",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E453754-000/00?colorDisplayCode=09&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/th/imagesgoods/453754/item/thgoods_09_453754_3x4.jpg?width=600"
+        },
+        {
+          "name": "Washable Milano Ribbed Skipper Polo Sweater",
+          "store": "UNIQLO",
+          "details": [
+            "69 Navy",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E482325-000/00?colorDisplayCode=69&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482325/item/usgoods_69_482325_3x4.jpg?width=600"
+        },
+        {
+          "name": "Zip-Up Blouson",
+          "store": "UNIQLO",
+          "details": [
+            "57 Olive",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E484249-000/00?colorDisplayCode=57&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484249/item/usgoods_57_484249_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Pique Polo Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "08 Dark Gray",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=08&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_08_475367_3x4.jpg?width=600"
+        },
+        {
+          "name": "Washable 3D Knit Sweater",
+          "store": "UNIQLO",
+          "details": [
+            "69 Navy",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=69&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_69_482321_3x4.jpg?width=600"
+        },
+        {
+          "name": "Pleated Wide Pants",
+          "store": "UNIQLO",
+          "details": [
+            "69 Navy",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=69&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_69_462197_3x4.jpg?width=600"
+        },
+        {
+          "name": "Pleated Wide Pants",
+          "store": "UNIQLO",
+          "details": [
+            "09 Black",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E462197-000/00?colorDisplayCode=09&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/462197/item/usgoods_09_462197_3x4.jpg?width=600"
+        },
+        {
+          "name": "Wide Sweatpants",
+          "store": "UNIQLO",
+          "details": [
+            "34 Brown",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E471809-000/00?colorDisplayCode=34&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/471809/item/usgoods_34_471809_3x4.jpg?width=600"
+        },
+        {
+          "name": "Waffle T-Shirt | Long Sleeve",
+          "store": "UNIQLO",
+          "details": [
+            "65 Blue",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=65&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_65_484780_3x4.jpg?width=600"
+        },
+        {
+          "name": "Waffle T-Shirt | Long Sleeve",
+          "store": "UNIQLO",
+          "details": [
+            "57 Olive",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=57&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_57_484780_3x4.jpg?width=600"
+        },
+        {
+          "name": "Waffle T-Shirt | Long Sleeve",
+          "store": "UNIQLO",
+          "details": [
+            "32 Beige",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E484780-000/00?colorDisplayCode=32&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/484780/item/usgoods_32_484780_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Pique Polo Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "38 Dark Brown",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=38&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_38_475367_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Pique Polo Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "69 Navy",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E475367-000/00?colorDisplayCode=69&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/475367/item/usgoods_69_475367_3x4.jpg?width=600"
+        },
+        {
+          "name": "Washable 3D Knit Sweater",
+          "store": "UNIQLO",
+          "details": [
+            "09 Black",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E482321-000/00?colorDisplayCode=09&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482321/item/usgoods_09_482321_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Oversized T-Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "09 Black",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=09&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_09_465185_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Oversized T-Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "00 White",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=00&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_00_465185_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Oversized T-Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "69 Navy",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=69&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_69_465185_3x4.jpg?width=600"
+        },
+        {
+          "name": "AIRism Cotton Oversized T-Shirt",
+          "store": "UNIQLO",
+          "details": [
+            "39 Dark Brown",
+            "Size Large"
+          ],
+          "url": "https://www.uniqlo.com/us/en/products/E465185-000/00?colorDisplayCode=39&sizeDisplayCode=005",
+          "image": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/465185/item/usgoods_39_465185_3x4.jpg?width=600"
         }
       ]
     },
-    {"name": "Tyler", "slug": "tyler", "icon": "❄", "items": []},
-    {"name": "Mom", "slug": "mom", "icon": "✿", "items": []},
-    {"name": "Dad", "slug": "dad", "icon": "✳", "items": []},
-    {"name": "Carli", "slug": "carli", "icon": "✧", "items": []}
+    {
+      "name": "Tyler",
+      "slug": "tyler",
+      "icon": "❄",
+      "items": []
+    },
+    {
+      "name": "Mom",
+      "slug": "mom",
+      "icon": "✿",
+      "items": []
+    },
+    {
+      "name": "Dad",
+      "slug": "dad",
+      "icon": "✳",
+      "items": []
+    },
+    {
+      "name": "Carli",
+      "slug": "carli",
+      "icon": "✧",
+      "items": []
+    }
   ]
 }
