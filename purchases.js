@@ -11,6 +11,20 @@
   uncheckDialog.className = 'purchase-dialog';
   uncheckDialog.innerHTML = `<form method="dialog"><h2>Changed your mind?</h2><p>That's alright. I'm sure Ryan still appreciates you. Are you sure you want to uncheck this box? Reminder that this affects everyone on the site so please don't uncheck a box that you didn't originally check.</p><div class="dialog-actions"><button value="cancel" class="dialog-cancel">Cancel</button><button value="confirm" class="dialog-confirm">Yes, uncheck it</button></div></form>`;
   document.body.append(uncheckDialog);
+  for (const modal of [dialog, uncheckDialog]) {
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.className = 'dialog-close';
+    close.setAttribute('aria-label', 'Close dialog');
+    close.textContent = '×';
+    close.addEventListener('click', () => modal.close('cancel'));
+    modal.querySelector('form').prepend(close);
+    modal.addEventListener('click', event => {
+      if (event.target !== modal) return;
+      const bounds = modal.getBoundingClientRect();
+      if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) modal.close('cancel');
+    });
+  }
 
   let controls = [];
   let current = null;

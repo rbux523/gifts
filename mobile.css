@@ -27,7 +27,9 @@
 .item-copy .purchase-status { min-height: 1.2em; margin: 7px 0 0 30px; font-size: .78rem; line-height: 1.4; }
 .purchase-dialog { width: min(90vw, 480px); max-height: calc(100dvh - 32px); border: 1px solid #dce5da; border-radius: 10px; padding: 30px; color: #173d30; background: #faf8f0; box-shadow: 0 20px 65px #21493840; outline: none; }
 .purchase-dialog::backdrop { background: #10291fb3; }
-.purchase-dialog h2 { font-size: 2rem; margin: 0 0 15px; }
+.purchase-dialog h2 { font-size: 2rem; margin: 0 0 15px; padding-right: 38px; }
+.dialog-close { -webkit-appearance: none; appearance: none; position: absolute; top: 12px; right: 12px; display: grid; place-items: center; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 50%; color: #365944; background: transparent; font: inherit; font-size: 1.8rem; line-height: 1; cursor: pointer; }
+.dialog-close:focus-visible { outline: 3px solid #365944; outline-offset: 2px; }
 .purchase-dialog p { line-height: 1.65; color: #526d5b; }
 .dialog-actions { display: flex; gap: 10px; margin-top: 25px; }
 .dialog-actions button { -webkit-appearance: none; appearance: none; flex: 1; min-height: 48px; padding: 12px; border: 1px solid #b7503d; border-radius: 4px; font: inherit; font-size: .85rem; font-weight: 700; cursor: pointer; }
