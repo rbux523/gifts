@@ -52,6 +52,7 @@
   .photo img { display: block; height: 100%; object-fit: contain; }
   .item-copy { padding: 30px 24px 36px; }
   .button { min-height: 48px; text-align: center; }
+  .purchase-control { margin-top: 0; padding-top: 32px; }
   .empty { padding: 55px 20px; }
   .empty h2, .item-copy h2 { font-size: 2.2rem; }
   footer { line-height: 1.8; }
