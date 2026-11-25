@@ -12,6 +12,7 @@
   uncheckDialog.innerHTML = `<form method="dialog"><h2>Changed your mind?</h2><p>That's alright. I'm sure Ryan still appreciates you. Are you sure you want to uncheck this box? Reminder that this affects everyone on the site so please don't uncheck a box that you didn't originally check.</p><div class="dialog-actions"><button value="cancel" class="dialog-cancel">Cancel</button><button value="confirm" class="dialog-confirm">Yes, uncheck it</button></div></form>`;
   document.body.append(uncheckDialog);
   for (const modal of [dialog, uncheckDialog]) {
+    modal.querySelector('h2').tabIndex = -1;
     const close = document.createElement('button');
     close.type = 'button';
     close.className = 'dialog-close';
@@ -117,11 +118,13 @@
           current = control;
           dialog.returnValue = 'cancel';
           dialog.showModal();
+          dialog.querySelector('h2').focus({ preventScroll: true });
         } else {
           control.input.checked = true;
           current = control;
           uncheckDialog.returnValue = 'cancel';
           uncheckDialog.showModal();
+          uncheckDialog.querySelector('h2').focus({ preventScroll: true });
         }
       });
       return control;
