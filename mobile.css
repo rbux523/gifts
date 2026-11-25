@@ -38,6 +38,15 @@
 .dialog-actions .dialog-cancel { color: #a84433; background: #faf8f0; }
 .dialog-actions .dialog-confirm { color: #fff; background: #b7503d; }
 .dialog-actions button:focus-visible { outline: 3px solid #365944; outline-offset: 3px; }
+.button, .dialog-actions button, .dialog-close { transition: background-color .2s ease, color .2s ease, border-color .2s ease, box-shadow .2s ease, transform .2s ease; }
+.button:focus-visible { outline: 3px solid #365944; outline-offset: 3px; }
+@media (hover: hover) {
+  .button:hover, .dialog-actions .dialog-confirm:hover { background: #963c2c; border-color: #963c2c; box-shadow: 0 6px 16px #963c2c38; transform: translateY(-2px); }
+  .dialog-actions .dialog-cancel:hover { background: #f2e2d9; border-color: #963c2c; color: #873727; }
+  .dialog-close:hover { background: #e3ecdf; color: #173d30; }
+}
+.button:active, .dialog-actions button:active { transform: translateY(0); box-shadow: none; }
+@media (prefers-reduced-motion: reduce) { .button, .dialog-actions button, .dialog-close { transition: none; } }
 @media (max-width: 500px) { .dialog-actions { flex-direction: column; } .purchase-dialog { padding: 24px; } }
 
 /* Comfortable spacing and touch targets on smaller screens. */
