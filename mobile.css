@@ -25,14 +25,15 @@
 .purchase-control label { display: flex; align-items: flex-start; gap: 10px; cursor: pointer; font-size: .9rem; line-height: 1.45; color: #365944; }
 .purchase-control input { flex: 0 0 auto; width: 20px; height: 20px; margin: 0; accent-color: #b7503d; cursor: pointer; }
 .item-copy .purchase-status { min-height: 1.2em; margin: 7px 0 0 30px; font-size: .78rem; line-height: 1.4; }
-.purchase-dialog { width: min(90vw, 480px); border: 1px solid #dce5da; border-radius: 10px; padding: 30px; color: #173d30; background: #faf8f0; box-shadow: 0 20px 65px #173d3040; }
+.purchase-dialog { width: min(90vw, 480px); max-height: calc(100dvh - 32px); border: 1px solid #dce5da; border-radius: 10px; padding: 30px; color: #173d30; background: #faf8f0; box-shadow: 0 20px 65px #21493840; outline: none; }
 .purchase-dialog::backdrop { background: #10291fb3; }
 .purchase-dialog h2 { font-size: 2rem; margin: 0 0 15px; }
 .purchase-dialog p { line-height: 1.65; color: #526d5b; }
 .dialog-actions { display: flex; gap: 10px; margin-top: 25px; }
-.dialog-actions button { flex: 1; min-height: 48px; padding: 12px; border: 1px solid #b7503d; border-radius: 4px; font: inherit; font-size: .85rem; font-weight: 700; cursor: pointer; }
-.dialog-cancel { color: #a84433; background: transparent; }
-.dialog-confirm { color: white; background: #b7503d; }
+.dialog-actions button { -webkit-appearance: none; appearance: none; flex: 1; min-height: 48px; padding: 12px; border: 1px solid #b7503d; border-radius: 4px; font: inherit; font-size: .85rem; font-weight: 700; cursor: pointer; }
+.dialog-actions .dialog-cancel { color: #a84433; background: #faf8f0; }
+.dialog-actions .dialog-confirm { color: #fff; background: #b7503d; }
+.dialog-actions button:focus-visible { outline: 3px solid #365944; outline-offset: 3px; }
 @media (max-width: 500px) { .dialog-actions { flex-direction: column; } .purchase-dialog { padding: 24px; } }
 
 /* Comfortable spacing and touch targets on smaller screens. */
